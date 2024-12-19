@@ -63,7 +63,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,postgres,figma,firebase,github,html,java,js,md,materialui,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,androidstudio,arduino,blender,bootstrap,idea,jenkins,jquery,laravel&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,postgres,figma,firebase,github,html,java,js,md,materialui,mysql,nextjs,nodejs,postman,react,tailwind,ts,vscode,androidstudio,arduino,blender,bootstrap,idea,jenkins,jquery,laravel,php,swift,xd&perline=14" />
   </a>
 </p>
 
