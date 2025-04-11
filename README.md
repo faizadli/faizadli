@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning **Java, Typescript**
 
-- ☁️ I've keen interest in java. So,I'm learning **JAVA**
-
 - 📫 Feel free to reach me out **faizadli9912@gmail.com**
 <!--Intro end-->
 
